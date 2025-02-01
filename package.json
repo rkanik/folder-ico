@@ -54,7 +54,7 @@
     "electron": "^33.2.1",
     "electron-builder": "^25.1.8",
     "electron-extension-installer": "^1.2.0",
-    "eslint": "8.57.0",
+    "eslint": "9.19.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-config-standard": "17.1.0",
     "eslint-friendly-formatter": "4.0.1",
